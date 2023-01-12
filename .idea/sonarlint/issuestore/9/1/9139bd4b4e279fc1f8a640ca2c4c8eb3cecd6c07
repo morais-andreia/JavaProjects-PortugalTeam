@@ -1,0 +1,25 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì”ˆ¦
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úõîâûÿÿÿÿ
+X
+java:S1854!"BRemove this useless assignment to local variable "descontoPreco2".(³Í¯¯
+\
+java:S1854"ARemove this useless assignment to local variable "descontoPreco".(ùÛîºÿÿÿÿÿ
+X
+java:S1854'"BRemove this useless assignment to local variable "descontoPreco2".(³Í¯¯
+\
+java:S1854%"ARemove this useless assignment to local variable "descontoPreco".(½ïÁÓıÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àşôëÿÿÿÿÿ
+M
+java:S1481"2Remove this unused "descontoPreco" local variable.(ùÛîºÿÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆ§¬
+I
+java:S1481!"3Remove this unused "descontoPreco2" local variable.(³Í¯¯
+M
+java:S1481%"2Remove this unused "descontoPreco" local variable.(½ïÁÓıÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ñî»Øüÿÿÿÿ
+I
+java:S1481'"3Remove this unused "descontoPreco2" local variable.(³Í¯¯
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(‹”—

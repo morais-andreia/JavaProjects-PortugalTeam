@@ -6,7 +6,6 @@ public class FindErros1_4 {
         //Exercise 1.4.  Find the errors in the following Java sentences:
 
 
-
         //(a)
         int a = 0;
         int b = 0;
@@ -39,7 +38,6 @@ public class FindErros1_4 {
 
         // float doesn´t have a value and you can´t compare 2 variables of different types unless you convert one of then (i.e int to float and vice versa)
 
-
         //(g)
         boolean k;
         k = true;
@@ -48,8 +46,6 @@ public class FindErros1_4 {
         //(h)
         String s = "This is a string";
         // You need (") to do a string.
-
-
 
 
     }

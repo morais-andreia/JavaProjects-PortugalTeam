@@ -1,0 +1,12 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿èýú
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ËÁÍýÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’«¸ü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅäÈ¿ýÿÿÿÿ
+d
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—¦È£ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û¡ÎÅûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼¬¼…ûÿÿÿÿ

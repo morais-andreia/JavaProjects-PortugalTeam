@@ -1,0 +1,39 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Í¤Ø¬
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª‘å¿şÿÿÿÿ
+J
+java:S1854/"5Remove this useless assignment to local variable "s".(ğ† N
+K
+java:S1854+"5Remove this useless assignment to local variable "k".(°ãë¨
+P
+java:S1854%"5Remove this useless assignment to local variable "j".(ÅÀÔøÿÿÿÿ
+P
+java:S1854$"5Remove this useless assignment to local variable "g".(¹Ö»¼ùÿÿÿÿ
+K
+java:S1854 "5Remove this useless assignment to local variable "f".(ïÍŒÔ
+P
+java:S1854"5Remove this useless assignment to local variable "e".(Å”äíûÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "d".(úÿ¬Ûıÿÿÿÿ
+<
+java:S1481
+"&Remove this unused "a" local variable.(€ôá
+<
+java:S1481"&Remove this unused "b" local variable.(°ò‹
+A
+java:S1481"&Remove this unused "c" local variable.(ª››ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Üª–³ÿÿÿÿÿ
+A
+java:S1481"&Remove this unused "d" local variable.(úÿ¬Ûıÿÿÿÿ
+A
+java:S1481"&Remove this unused "e" local variable.(Å”äíûÿÿÿÿ
+<
+java:S1481 "&Remove this unused "f" local variable.(ïÍŒÔ
+A
+java:S1481$"&Remove this unused "g" local variable.(¹Ö»¼ùÿÿÿÿ
+A
+java:S1481%"&Remove this unused "j" local variable.(ÅÀÔøÿÿÿÿ
+<
+java:S1481*"&Remove this unused "k" local variable.(ëÉÄè
+;
+java:S1481/"&Remove this unused "s" local variable.(ğ† N
