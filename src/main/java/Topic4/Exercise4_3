@@ -1,0 +1,22 @@
+package Chapter4;
+import java.util.Scanner;
+public class Thing {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Type a number: ");
+        int numB = scanner.nextInt();
+        int numB2 = numB * numB;
+        int aux = numB;
+
+        for (int i = 0; i < numB2; i++) {
+            if (i == aux) {
+                System.out.print(" *");
+                aux = aux + numB;
+            } else {
+                System.out.print("*");
+            }
+
+
+        }
+    }
+}

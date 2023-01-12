@@ -1,0 +1,35 @@
+package Chapter4;
+import java.util.Scanner;
+public class Cars {
+
+    public static void main(String args[]) {
+
+        //Initialize what we know
+        int numberOfPeople = 2;
+        int numberOfCars = 1;
+        int numberOfMath = numberOfCars * 2;
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("How many Cars are there?");
+        numberOfCars = scanner.nextInt();
+
+        //Process all students
+        for (int i = 0; i < numberOfCars; i++) {
+
+            double total = 0;
+            for (int j = 0; j < numberOfCars * 2; j++) {
+                System.out.println("What is the age of person " + (j+1));
+                double score2 = scanner.nextDouble();
+                total = total + score2 / numberOfCars;
+
+
+            }
+
+            double average = total / numberOfMath;
+            System.out.println("The average age" + " is " + average);
+            break;
+        }
+
+        scanner.close();
+    }
+}

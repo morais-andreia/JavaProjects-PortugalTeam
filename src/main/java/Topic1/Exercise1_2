@@ -1,0 +1,20 @@
+package Chapter1;
+import java.util.Scanner;
+public class Variables {
+
+    public static void main(String args[]) {
+        String name = "Insert funny joke here";
+        System.out.println(name);
+
+        int x = 5;
+        System.out.println(x);
+
+        double y = 5.5;
+        System.out.println(y);
+
+        boolean amIDumb = true;
+        System.out.println (amIDumb);
+
+    }
+
+}
