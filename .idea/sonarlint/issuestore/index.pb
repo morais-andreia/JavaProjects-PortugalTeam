@@ -3,10 +3,6 @@
 .src/main/java/JavaTopic2/SameStructure2_3.java,9\1\9139bd4b4e279fc1f8a640ca2c4c8eb3cecd6c07
 ]
 -src/main/java/JavaTopic2/NumberReader2_4.java,e\9\e9cfb5a11d670836b2417bde8370a72940a4b7b9
-X
-(src/main/java/JavaTopic3/TypeAge3_4.java,d\6\d6fd7b3cc03ebb4a5e2fe38f7f46bb623920935d
-`
-0src/main/java/JavaTopic3/TypingUntilZero3_6.java,5\c\5c5305459ac9ae81b2521c6a48a5ef0bca04f637
 \
 ,src/main/java/JavaTopic3/LoopCounter3_2.java,b\d\bdbc54468933e3018b1227908069b48388966655
 ]
@@ -15,7 +11,9 @@ X
 +src/main/java/JavaTopic3/WordReader3_3.java,7\4\749487fa0a7a690981d2f508b7700d755e2e9236
 W
 'src/main/java/JavaTopic4/CarJam4_1.java,4\2\42facf8ecb08644caf88ed5e957c25d26861cf9c
-V
-&src/main/java/Testingcode/testing.java,1\6\166e9d745e59c771d4cdbfdd0d412bd3c4f07260
 m
 =src/main/java/JavaTopic1/DeclarationVariablesExercise1_2.java,b\7\b7e4a7f5f700ae619ee42412f886d3c4d457154a
+c
+3src/main/java/JavaTopic3/ExerciceCorrection3_5.java,3\8\388133d52313b1dcbf31d03a0ce79d8f16f1faac
+`
+0src/main/java/JavaTopic3/TypingUntilZero3_6.java,5\c\5c5305459ac9ae81b2521c6a48a5ef0bca04f637
