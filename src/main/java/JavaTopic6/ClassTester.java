@@ -63,4 +63,16 @@ public class ClassTester {
 
     }
 
+    public void tellMeHowGreatIsEli(){
+        System.out.println("Hey, Eli no seas tan presumida!!!");
+    }
+
+    public void printTester(ClassTester tester){
+        System.out.println("-------> Printing tester information");
+        System.out.println("Hello my name is " + tester.getName());
+        System.out.println("I'm " + tester.getMindset());
+        System.out.println("Are you a tester? " + tester.getIsTesterByChance());
+        System.out.println("My nails are " + tester.getLongToeNails() + " cm long");
+    }
+
 }
