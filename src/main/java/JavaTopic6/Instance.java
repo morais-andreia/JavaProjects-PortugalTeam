@@ -62,7 +62,5 @@ public class Instance {
         }
 
         new ClassTester().tellMeHowGreatIsEli();
-
-
     }
 }
